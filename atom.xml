@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zqpzf.github.io/</id>
     <title>Gridea</title>
-    <updated>2020-01-12T14:26:17.429Z</updated>
+    <updated>2020-01-12T14:30:18.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zqpzf.github.io/"/>
     <link rel="self" href="https://zqpzf.github.io//atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://zqpzf.github.io//images/avatar.png</logo>
     <icon>https://zqpzf.github.io//favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[哈哈，利用周末空余时间，折腾两天终于成功]]></title>
+        <id>https://zqpzf.github.io//post/ha-ha-li-yong-zhou-mo-kong-yu-shi-jian-zhe-teng-liang-tian-zhong-yu-cheng-gong</id>
+        <link href="https://zqpzf.github.io//post/ha-ha-li-yong-zhou-mo-kong-yu-shi-jian-zhe-teng-liang-tian-zhong-yu-cheng-gong">
+        </link>
+        <updated>2020-01-12T14:28:09.000Z</updated>
+        <content type="html"><![CDATA[<p>这是我的新博客哦，给自己点个赞</p>
+<p>2020，努力前行，做更好的自己。<br>
+<img src="https://zqpzf.github.io//post-images/1578839361344.jpg" alt=""></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://zqpzf.github.io//post/hello-gridea</id>
